@@ -1,0 +1,13 @@
+{
+   "image": {
+       "width":  800,
+       "height": 600,
+       "title":  "View from 15th Floor",
+       "thumbnail": {
+           "url":    "http://www.example.com/image/481989943",
+           "height": 125,
+           "width":  "100"
+       },
+       "ids": [116, 943, 234, 38793]
+     }
+}
